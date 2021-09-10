@@ -1,4 +1,4 @@
-# Stocks-Web-Crawler
+# Stocks-Web-Crawler !
 
 The aim of this project is to design and develop a database for the customers to get relevant information about stocks and maintain a record of interested stocks. It also maintains customer database as well as stocks’ real-time database. Alerts and updates of subscribed stocks are sent to the customers via their registered emails.
 
